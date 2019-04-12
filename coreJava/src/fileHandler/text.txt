@@ -1,0 +1,7 @@
+ID, Name, City
+1,   Max,   NYC
+2,   Maria,   Jersey City
+3,  Tom,  San Jose
+4, Lucy, San Jose
+5, David, San Jose
+6, Kevin, San Jose
